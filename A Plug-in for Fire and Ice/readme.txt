@@ -25,6 +25,5 @@
    此文件夹生成"学号姓名.zip", 上传到以下ftp:
    ftp://bhhreverse:bhhreverse@10.71.45.100/作业02
    
-4. myfire_dos使用了单步调试偷psp_addr的方法
+4. 补充说明：myfire_dos使用了单步调试偷psp_addr的方法
 myfire_dosbox为简朴的时钟驻留程序，保证可以在dosbox环境下正常运行。
-请助教、老师酌情选择，谢谢！
